@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">OnBordingScreen</string>
+    <string name="get_inspired">Get inspired</string>
+    <string name="tv_description">To ensure good health: eat lightly, breathe deeply, live moderately, cultivate cheerfulness, and maintain an interest in life.</string>
+    <string name="skip">Skip</string>
+    <string name="next">Next</string>
+    <string name="get_started">Get Started</string>
+</resources>
